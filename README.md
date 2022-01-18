@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash2299kumar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reacy Js
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to explore different kind of projects
 
 <!---
